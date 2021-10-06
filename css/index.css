@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+
+/* 
+- Mobile: 375px
+- Desktop: 1440px 
+*/
+
+:root {
+  --dk-cyan: hsl(185, 75%, 39%);
+  --primary-blue: hsl(229, 23%, 23%);
+  --blob-blue: hsl(227, 10%, 46%);
+  --dk-gray: hsl(0, 0%, 59%);
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Kumbh Sans", sans-serif;
+}
