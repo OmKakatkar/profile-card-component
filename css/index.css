@@ -1,10 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
 
-/* 
-- Mobile: 375px
-- Desktop: 1440px 
-*/
-
 :root {
   --dk-cyan: hsl(185, 75%, 39%);
   --dk-blue: hsl(229, 23%, 23%);
